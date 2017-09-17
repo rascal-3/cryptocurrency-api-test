@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "main": "index.js",
   "author": "Racooma <info@racooma.com>",
-  "license": "MIT",
+  "license": "",
   "scripts": {
     "dev-start": "./node_modules/.bin/webpack-dev-server",
     "main": "server.js",
@@ -21,7 +21,6 @@
     "extract-text-webpack-plugin": "^3.0.0",
     "geolib": "^2.0.22",
     "import-glob-loader": "^1.1.0",
-    "jquery": "^3.2.1",
     "jsonp": "^0.2.1",
     "lodash": "^4.17.4",
     "node-sass": "^4.5.3",
